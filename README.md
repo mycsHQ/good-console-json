@@ -1,11 +1,7 @@
-# good-console
+# good-console-kvp
 
-`good-console` is a transform stream useful for turning [good](https://github.com/hapijs/good) server events into formatted strings.
-
-[![Build Status](https://travis-ci.org/hapijs/good-console.svg?branch=master)](http://travis-ci.org/hapijs/good-console)
-[![Current Version](https://img.shields.io/npm/v/good-console.svg)](https://www.npmjs.com/package/good-console)
-
-Lead Maintainer: [Open Position](https://github.com/hapijs/good-console/issues/108)
+`good-consol-kvp` is a transform stream useful for turning [good](https://github.com/hapijs/good) server events into formatted strings.
+Base on using Key-Value Pairs, [see](https://docs.logentries.com/docs/json)
 
 ## Usage
 
