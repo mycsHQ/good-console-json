@@ -11,7 +11,8 @@
     "hoek": "4.x.x",
     "joi": "12.x.x",
     "json-stringify-safe": "5.0.x",
-    "moment": "2.20.x"
+    "moment": "2.20.x",
+    "r7insight_node": "^1.8.2"
   },
   "devDependencies": {
     "code": "4.x.x",
