@@ -1,11 +1,7 @@
-# good-console
+# good-console-json
 
-`good-console` is a transform stream useful for turning [good](https://github.com/hapijs/good) server events into formatted strings.
-
-[![Build Status](https://travis-ci.org/hapijs/good-console.svg?branch=master)](http://travis-ci.org/hapijs/good-console)
-[![Current Version](https://img.shields.io/npm/v/good-console.svg)](https://www.npmjs.com/package/good-console)
-
-Lead Maintainer: [Open Position](https://github.com/hapijs/good-console/issues/108)
+`good-consol-json` is a transform stream useful for turning [good](https://github.com/hapijs/good) server events into formatted strings.
+Base on using JSON format, [see](https://docs.logentries.com/docs/json)
 
 ## Usage
 
@@ -21,6 +17,7 @@ Creates a new GoodConsole object with the following arguments:
 
 Below are example outputs for the designated event type:
 
+[TODO] examples should be updated to JSON format
 - "ops" - 160318/013330.957, [ops] memory: 29Mb, uptime (seconds): 6, load: [1.650390625,1.6162109375,1.65234375]
 - "error" - 160318/013330.957, [error,`event.tags`] message: Just a simple error, stack: `event.error.stack`
 - "request" - 160318/013330.957, [request,`event.tags`] data: you made a request
