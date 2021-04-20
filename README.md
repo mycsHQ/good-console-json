@@ -1,5 +1,9 @@
 # good-console-json
 
+The package is deprecated, we can delere curent repo once we delete those repos:
+- https://github.com/mycsHQ/element-api/blob/master/package.json#L26
+- https://github.com/mycsHQ/design-api/blob/master/package.json#L47
+
 `good-consol-json` is a transform stream useful for turning [good](https://github.com/hapijs/good) server events into formatted strings.
 Base on using JSON format, [see](https://docs.logentries.com/docs/json)
 
