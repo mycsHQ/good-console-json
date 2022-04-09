@@ -10,7 +10,7 @@
   "dependencies": {
     "hoek": "4.x.x",
     "joi": "12.x.x",
-    "moment": "2.20.x",
+    "moment": "2.29.x",
     "r7insight_node": "^1.8.2"
   },
   "devDependencies": {
